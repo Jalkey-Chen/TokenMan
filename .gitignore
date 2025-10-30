@@ -46,4 +46,3 @@ data/*.sqlite
 
 # --- Images & generated assets (keep source under assets/, ignore outputs) ---
 assets/generated/
-.env
