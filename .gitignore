@@ -1,0 +1,48 @@
+# --- Python build & cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtual envs ---
+.venv/
+venv/
+.envrc
+
+# --- Project secrets & local config ---
+.env
+.streamlit/secrets.toml
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+
+# --- OS junk files ---
+.DS_Store
+Thumbs.db
+
+# --- Tests / coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- Linters / formatters ---
+.ruff_cache/
+
+# --- Streamlit runtime (optional; keep logs out of git) ---
+.streamlit/logs/
+.streamlit/cache/
+
+# --- Data & artifacts (keep your source wordlists tracked) ---
+data/tmp/
+data/*.sqlite
+*.log
+
+# --- Images & generated assets (keep source under assets/, ignore outputs) ---
+assets/generated/
