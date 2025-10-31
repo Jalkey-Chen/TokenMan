@@ -1,7 +1,8 @@
-![GitHub issues](https://img.shields.io/github/issues/uchicago-2025-capp30122/30122-project-mapademic?style=flat&color=gray)
-![GitHub forks](https://img.shields.io/github/forks/uchicago-2025-capp30122/30122-project-mapademic?style=social)
-![GitHub stars](https://img.shields.io/github/stars/uchicago-2025-capp30122/30122-project-mapademic?style=social)
-![GitHub license](https://img.shields.io/github/license/uchicago-2025-capp30122/30122-project-mapademic?color=green)
+![GitHub issues](https://img.shields.io/github/issues/Jalkey-Chen/TokenMan?style=flat&color=gray)
+![GitHub forks](https://img.shields.io/github/forks/Jalkey-Chen/TokenMan?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Jalkey-Chen/TokenMan?style=social)
+![GitHub license](https://img.shields.io/github/license/Jalkey-Chen/TokenMan?color=green)
+
 
 # TokenMan
 
